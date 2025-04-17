@@ -1,6 +1,5 @@
 <html>
 <title>slack shop</title>
-
 <body style="background-color:gray">
 <header style="text-align: center;">
     <img src="https://learn.logikaschool.com/uploads/student/5378605/67fa19ff49ace.jpg" width="500px" height="350px">
@@ -15,7 +14,6 @@
     <a>the best gpu made at its time.</a>
         <a>only for 349$ now with tax! </a>
         <a href="#" style="display: inline-block; padding: 10px 20px; color:black; background-color: lightgray; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold;text-align: center">Buy Now</a>
-
         <section style="padding: 20px; background-color:lightgray;border-radius: 10px; margin: 20px;">
             <h2 style="font-family:sans-serif;color: #333;">PC parts</h2>
             <div style="display: flex; gap: 15px; flex-wrap: wrap;">
@@ -39,9 +37,8 @@
                 <p> RAM </p>
                     <h3>DDR4 16 GB</h3>
                     <p>Cost: $99</p>
-
                     <a href="#" style="display: inline-block; padding: 10px 20px; color:black; background-color: lightgray; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold;text-align: center">Buy Now</a>
-                    </div>
+          </div>
         </section>
         <section style="padding: 20px; background-color:lightgray; border-radius: 10px; margin: 20px;">
             <h2 style="font-family: Arial, sans-serif; color: #333;">Popular PC builds</h2>
@@ -136,11 +133,9 @@
         </tbody>
     </table>
 </section>
-
     </main>
     <footer>
         <p style="font-family:sans-serif;text-align:center;font-size:10px">© 2025 Slack Shop. All rights reserved.</p>
     </footer>
 </body>
-
 </html>
